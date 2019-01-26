@@ -1,0 +1,801 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/System.java" timestamp="1548316996029">
+        <mark key="'" line="349" column="20" />
+        <mark key="[" line="352" column="30" />
+        <mark key="]" line="352" column="46" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/config/Constant.java" timestamp="1548398897002">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/SongDetail.java" timestamp="1546504478943">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/test/java/com/facecool/pianocat/app/socket/test/mockclient/MockClient.java" timestamp="1546834352062">
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="47" column="31" />
+        <mark key="." line="47" column="31" />
+        <mark key="^" line="47" column="31" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/loginsession/PlayerSession.java" timestamp="1546505708522">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="40" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/loginsession/RobotSession.java" timestamp="1546505752627">
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="10" column="45" />
+        <mark key="^" line="10" column="45" />
+        <mark key="." line="10" column="45" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/PlayerSessionService.java" timestamp="1547550663178">
+        <mark key="'" line="69" column="37" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="63" column="31" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/util/ResourceUtil.java" timestamp="1548397862514">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/resources/application-test.yml" timestamp="1547120141563">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/UserSession.java" timestamp="1547180856477">
+        <mark key="'" line="76" column="19" />
+        <mark key="[" line="80" column="81" />
+        <mark key="]" line="80" column="88" />
+        <mark key="." line="80" column="88" />
+        <mark key="^" line="80" column="88" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/resources/banner.txt" timestamp="1546834272175">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/RoomService.java" timestamp="1547550635313">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="66" column="33" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/SocketApplication.java" timestamp="1548405440500">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="14" column="63" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/Loading.java" timestamp="1545988093242">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="60" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="D:/JavaProject/SimpleGame/src/zz/Main.java" timestamp="1548323049275">
+        <mark key="'" line="21" column="41" />
+        <mark key="[" line="23" column="58" />
+        <mark key="]" line="23" column="58" />
+        <mark key="." line="23" column="58" />
+        <mark key="^" line="23" column="58" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/annotation/NettyServerChannelINitializer.java" timestamp="1545899234030">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/userdata/PlayerData.java" timestamp="1546932092518">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-web/src/main/java/com/facecool/pianocat/app/web/WebApplication.java" timestamp="1548402074258">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/test/java/com/facecool/pianocat/app/socket/test/mockclient/NettyClientHandler.java" timestamp="1546938675588">
+        <mark key="'" line="69" column="65" />
+        <mark key="[" line="85" column="89" />
+        <mark key="]" line="85" column="98" />
+        <mark key="." line="85" column="98" />
+        <mark key="^" line="85" column="98" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/loginsession/LoginSession.java" timestamp="1546505656696">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/test/java/com/facecool/pianocat/app/socket/test/mockclient/MockClient.java" timestamp="1546070041326">
+        <mark key="[" line="47" column="32" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+        <mark key="^" line="47" column="32" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/RobotSession.java" timestamp="1547199200355">
+        <mark key="'" line="161" column="40" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/config/PkConfig.java" timestamp="1548397853638">
+        <mark key="'" line="27" column="59" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-web/src/main/resources/application-test.yml" timestamp="1547802510134">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/GameStart.java" timestamp="1547808492022">
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="52" column="53" />
+        <mark key="." line="52" column="53" />
+        <mark key="^" line="52" column="53" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/SocketApplication.java" timestamp="1546069305993">
+        <mark key="[" line="22" column="44" />
+        <mark key="]" line="22" column="47" />
+        <mark key="." line="22" column="47" />
+        <mark key="^" line="22" column="47" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/config/JsonConfigPath.java" timestamp="1548398906551">
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/UserSessionRepository.java" timestamp="1546517321346">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="21" column="94" />
+        <mark key="^" line="21" column="94" />
+        <mark key="." line="21" column="94" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/config/RobotInfo.java" timestamp="1546936308679">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/RoomContext.java" timestamp="1547808470278">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="157" column="75" />
+        <mark key="]" line="157" column="75" />
+        <mark key="." line="157" column="75" />
+        <mark key="^" line="157" column="75" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/scheduled/ScheduledTask.java" timestamp="1546589345360">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+        <mark key="^" line="6" column="46" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-db/src/main/java/com/facecool/pianocat/app/db/service/impl/GameSeasonServiceImpl.java" timestamp="1546935733309">
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="51" column="44" />
+        <mark key="." line="51" column="44" />
+        <mark key="^" line="51" column="44" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/LoginSession.java" timestamp="1546077268739">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-db/src/main/resources/application-db-prod.yml" timestamp="1546429595376">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="54" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/resources/application.yml" timestamp="1547805666485">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+        <mark key="^" line="14" column="5" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-web/ctrl.sh" timestamp="1547120302692">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/config/RobotConfig.java" timestamp="1548397986295">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/common/src/main/java/com/facecool/common/util/RandomUtil.java" timestamp="1545913816922">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+        <mark key="^" line="18" column="15" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/handler/ByteMessageEncoder.java" timestamp="1545987051830">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="21" column="28" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/PlayerSession.java" timestamp="1547042194117">
+        <mark key="'" line="52" column="20" />
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="19" column="5" />
+        <mark key="." line="19" column="5" />
+        <mark key="^" line="19" column="5" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/common/build.gradle" timestamp="1546433767373">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/LoadingComplete.java" timestamp="1546070164000">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="32" column="44" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/scheduled/ScheduledTask.java" timestamp="1545904358677">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/LogService.java" timestamp="1547552306633">
+        <mark key="'" line="41" column="27" />
+        <mark key="[" line="13" column="55" />
+        <mark key="]" line="13" column="69" />
+        <mark key="." line="13" column="69" />
+        <mark key="^" line="13" column="69" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/base/Constant.java" timestamp="1547118374771">
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="7" column="61" />
+        <mark key="^" line="7" column="61" />
+        <mark key="." line="7" column="61" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/common/src/main/resources/common/configs/robots.json" timestamp="1547191617250">
+        <mark key="'" line="1464" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1471" column="0" />
+        <mark key="^" line="1471" column="0" />
+        <mark key="." line="1471" column="0" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-db/doc/db/create.sql" timestamp="1547714743189">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="31" />
+        <mark key="^" line="9" column="42" />
+        <mark key="." line="9" column="31" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/scheduled/ScheduledTaskRunner.java" timestamp="1546858456526">
+        <mark key="'" line="19" column="5" />
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="45" column="43" />
+        <mark key="." line="45" column="42" />
+        <mark key="^" line="45" column="28" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/util/CtxUtil.java" timestamp="1545983883008">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/handler/BusinessHandler.java" timestamp="1547557855351">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="38" column="32" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/Room.java" timestamp="1547200229847">
+        <mark key="'" line="179" column="0" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+        <mark key="^" line="188" column="24" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/annotation/ProtocolAnnotationProcessor.java" timestamp="1546850141193">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="86" column="70" />
+      </file>
+      <file name="D:/JavaProject/SimpleGame/lib/jc_ansiterm_0.1/stest/org/jchassis/termctl/ansi/TestAnsiTermctlBase.java" timestamp="1548322893913">
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="51" column="45" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/userdata/UserData.java" timestamp="1547808429666">
+        <mark key="'" line="21" column="5" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="^" line="123" column="40" />
+        <mark key="." line="132" column="0" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/base/Facade.java" timestamp="1545983757130">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/LoginSessionRepository.java" timestamp="1546079727342">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="90" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="10" column="6" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/base/Facade.java" timestamp="1547550057389">
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="57" column="33" />
+        <mark key="^" line="57" column="33" />
+        <mark key="." line="57" column="33" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/LoadingComplete.java" timestamp="1547198301470">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="30" column="5" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="18" column="46" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/config/PkConfig.java" timestamp="1548398936902">
+        <mark key="'" line="23" column="42" />
+        <mark key="[" line="23" column="79" />
+        <mark key="]" line="24" column="42" />
+        <mark key="." line="24" column="42" />
+        <mark key="^" line="24" column="42" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-web/build.gradle" timestamp="1546434050194">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548401428219">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/Free.java" timestamp="1547198277928">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="5" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/WaitUserEnterOrReady.java" timestamp="1547808381987">
+        <mark key="'" line="34" column="47" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/build.gradle" timestamp="1547549338807">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/PlayerSessionRepository.java" timestamp="1548390321622">
+        <mark key="'" line="31" column="4" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/SongRepository.java" timestamp="1546833000666">
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="47" column="21" />
+        <mark key="." line="47" column="21" />
+        <mark key="^" line="47" column="21" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/userdata/RobotData.java" timestamp="1547471501238">
+        <mark key="[" line="52" column="64" />
+        <mark key="]" line="52" column="68" />
+        <mark key="." line="52" column="68" />
+        <mark key="^" line="52" column="68" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/ctrl.sh" timestamp="1547120298151">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/config/BaseConfig.java" timestamp="1546071208470">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="34" column="42" />
+        <mark key="^" line="34" column="19" />
+        <mark key="." line="34" column="19" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/config/BaseConfig.java" timestamp="1546588635978">
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="37" column="32" />
+        <mark key="." line="37" column="32" />
+        <mark key="^" line="37" column="32" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/RoomStateMachineAdapter.java" timestamp="1547805485731">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="56" column="10" />
+        <mark key="." line="56" column="10" />
+        <mark key="^" line="56" column="10" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/customenum/UserTypeEnum.java" timestamp="1546505102933">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" timestamp="1547015360114">
+        <mark key="[" line="63" column="55" />
+        <mark key="]" line="64" column="35" />
+        <mark key="^" line="64" column="35" />
+        <mark key="." line="64" column="35" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/RoomStateMachineAdapter.java" timestamp="1545989531051">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="85" column="68" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-web/src/main/resources/application.yml" timestamp="1547120112565">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="5" column="12" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/resources/application-prod.yml" timestamp="1547120134561">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/annotation/ProtocolAnnotationProcessor.java" timestamp="1545987077602">
+        <mark key="[" line="99" column="80" />
+        <mark key="]" line="99" column="82" />
+        <mark key="." line="99" column="82" />
+        <mark key="^" line="99" column="82" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-db/src/main/resources/application-db-test.yml" timestamp="1546435990788">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="4" column="54" />
+        <mark key="^" line="4" column="54" />
+      </file>
+      <file name="/fragment.java" timestamp="1548398798244">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="63" column="64" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/test/java/com/facecool/pianocat/app/socket/test/mockclient/NettyClientHandler.java" />
+      <jump line="65" column="20" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/test/java/com/facecool/pianocat/app/socket/test/mockclient/NettyClientHandler.java" />
+      <jump line="34" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/test/java/com/facecool/pianocat/app/socket/test/mockclient/NettyClientHandler.java" />
+      <jump line="32" column="8" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/test/java/com/facecool/pianocat/app/socket/test/mockclient/NettyClientHandler.java" />
+      <jump line="64" column="65" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/test/java/com/facecool/pianocat/app/socket/test/mockclient/NettyClientHandler.java" />
+      <jump line="72" column="13" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/RobotSession.java" />
+      <jump line="82" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/UserSession.java" />
+      <jump line="62" column="29" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/PlayerSessionService.java" />
+      <jump line="108" column="25" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/UserSession.java" />
+      <jump line="116" column="19" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/RoomStateMachineAdapter.java" />
+      <jump line="39" column="17" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/RoomContext.java" />
+      <jump line="95" column="19" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/RoomContext.java" />
+      <jump line="97" column="41" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/RoomContext.java" />
+      <jump line="100" column="19" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/RoomContext.java" />
+      <jump line="102" column="41" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/RoomContext.java" />
+      <jump line="163" column="27" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/Room.java" />
+      <jump line="42" column="21" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/PlayerSessionRepository.java" />
+      <jump line="37" column="20" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/PlayerSessionRepository.java" />
+      <jump line="31" column="9" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/PlayerSession.java" />
+      <jump line="15" column="35" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/PlayerSession.java" />
+      <jump line="87" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/UserSession.java" />
+      <jump line="20" column="39" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/GameOver.java" />
+      <jump line="128" column="46" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/RobotSession.java" />
+      <jump line="110" column="27" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/UserSession.java" />
+      <jump line="111" column="18" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/UserSession.java" />
+      <jump line="72" column="8" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/UserSession.java" />
+      <jump line="148" column="65" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/RobotSession.java" />
+      <jump line="41" column="19" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/RobotSession.java" />
+      <jump line="106" column="25" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/UserSession.java" />
+      <jump line="111" column="43" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/Room.java" />
+      <jump line="40" column="45" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/RoomStateMachineAdapter.java" />
+      <jump line="33" column="31" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/scheduled/ScheduledTaskRunner.java" />
+      <jump line="34" column="74" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/scheduled/ScheduledTaskRunner.java" />
+      <jump line="62" column="71" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/RoomContext.java" />
+      <jump line="7" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/resources/banner.txt" />
+      <jump line="180" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/Room.java" />
+      <jump line="104" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/RobotSession.java" />
+      <jump line="127" column="20" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/RobotSession.java" />
+      <jump line="53" column="23" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/scheduled/ScheduledTaskRunner.java" />
+      <jump line="19" column="5" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/scheduled/ScheduledTaskRunner.java" />
+      <jump line="69" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" />
+      <jump line="100" column="4" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" />
+      <jump line="96" column="4" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" />
+      <jump line="37" column="4" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" />
+      <jump line="82" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" />
+      <jump line="46" column="65" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/PlayerSession.java" />
+      <jump line="55" column="81" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" />
+      <jump line="78" column="30" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" />
+      <jump line="12" column="19" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/resources/configs/robots.json" />
+      <jump line="31" column="6" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" />
+      <jump line="33" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" />
+      <jump line="45" column="46" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" />
+      <jump line="52" column="20" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/PlayerSession.java" />
+      <jump line="74" column="34" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/handler/BusinessHandler.java" />
+      <jump line="61" column="37" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/PlayerSessionService.java" />
+      <jump line="54" column="8" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/PlayerSessionRepository.java" />
+      <jump line="1463" column="3" filename="D:/Project/f27/f27-piano-server-unity/common/src/main/resources/common/configs/robots.json" />
+      <jump line="76" column="19" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/UserSession.java" />
+      <jump line="1464" column="2" filename="D:/Project/f27/f27-piano-server-unity/common/src/main/resources/common/configs/robots.json" />
+      <jump line="59" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/RoomStateMachineAdapter.java" />
+      <jump line="36" column="58" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/WaitUserEnterOrReady.java" />
+      <jump line="11" column="47" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/Free.java" />
+      <jump line="19" column="12" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/Free.java" />
+      <jump line="20" column="40" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/Free.java" />
+      <jump line="38" column="19" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/AllUserReady.java" />
+      <jump line="85" column="4" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/WaitUserEnterOrReady.java" />
+      <jump line="161" column="40" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/RobotSession.java" />
+      <jump line="57" column="22" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/handler/BusinessHandler.java" />
+      <jump line="50" column="5" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/LogService.java" />
+      <jump line="21" column="4" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/LogService.java" />
+      <jump line="55" column="7" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/LogService.java" />
+      <jump line="19" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/LogService.java" />
+      <jump line="16" column="4" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/LogService.java" />
+      <jump line="43" column="27" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/LogService.java" />
+      <jump line="46" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/handler/BusinessHandler.java" />
+      <jump line="6" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-db/doc/db/create.sql" />
+      <jump line="76" column="36" filename="D:/Project/f27/f27-piano-server-unity/app-db/doc/db/create.sql" />
+      <jump line="44" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-db/doc/db/create.sql" />
+      <jump line="78" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-db/doc/db/create.sql" />
+      <jump line="85" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/RoomContext.java" />
+      <jump line="35" column="47" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/WaitUserEnterOrReady.java" />
+      <jump line="9" column="0" filename="D:/JavaProject/SimpleGame/src/zz/Main.java" />
+      <jump line="16" column="15" filename="D:/JavaProject/SimpleGame/src/zz/Main.java" />
+      <jump line="58" column="19" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/System.java" />
+      <jump line="205" column="16" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/System.java" />
+      <jump line="270" column="57" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/System.java" />
+      <jump line="297" column="23" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/System.java" />
+      <jump line="328" column="16" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/System.java" />
+      <jump line="337" column="19" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/System.java" />
+      <jump line="349" column="20" filename="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/System.java" />
+      <jump line="10" column="44" filename="D:/JavaProject/SimpleGame/src/zz/Main.java" />
+      <jump line="44" column="0" filename="D:/JavaProject/SimpleGame/src/zz/Main.java" />
+      <jump line="22" column="15" filename="D:/JavaProject/SimpleGame/src/zz/Main.java" />
+      <jump line="21" column="41" filename="D:/JavaProject/SimpleGame/src/zz/Main.java" />
+      <jump line="11" column="0" filename="D:/Project/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/config/PkConfig.java" />
+      <jump line="31" column="4" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/PlayerSessionRepository.java" />
+      <jump line="50" column="4" filename="D:/Project/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/config/PkConfig.java" />
+      <jump line="63" column="0" filename="D:/Project/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/config/PkConfig.java" />
+      <jump line="27" column="59" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/config/PkConfig.java" />
+      <jump line="23" column="42" filename="D:/Project/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/config/PkConfig.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly9ATWFwcGVyU2NhbigiY29tLmZhY2Vjb29sLnBpYW5vY2F0LmFwcC5kYi5kYW8iKQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>Constant</text>
+      </register>
+      <register name="/" type="4">
+        <text>current</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGVybWluYWxDb250cm9sbGVyLnB1dENoYXJhY3RlcnMoInRlc3QtLS0tIik7CiAgICAgICAgICAgIHRlcm1pbmFsQ29udHJvbGxlci5wdXRDaGFyYWN0ZXJzKCJ0ZXN0LS0tLSIpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Ly9ATWFwcGVyU2NhbigiY29tLmZhY2Vjb29sLnBpYW5vY2F0LmFwcC5kYi5kYW8iKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGltZS5zbAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>{
+            @Override
+            public void init() throws TerminalIoException {
+
+            }
+
+            @Override
+            public void reset() throws TerminalIoException {
+
+            }
+
+            @Override
+            public void moveCursor(Direction direction) throws TerminalIoException {
+
+            }
+
+            @Override
+            public void moveCursor(Direction direction, int i) throws TerminalIoException {
+
+            }
+
+            @Override
+            public void putCharacter(char c) throws TerminalIoException {
+
+            }
+
+            @Override
+            public void putCharacters(String s) throws TerminalIoException {
+
+            }
+
+            @Override
+            public Point getCursorPosition() throws TerminalIoException {
+                return null;
+            }
+
+            @Override
+            public void setCursorPosition(Point point) throws TerminalIoException {
+
+            }
+
+            @Override
+            public void home() throws TerminalIoException {
+
+            }
+
+            @Override
+            public void beep() throws TerminalIoException {
+
+            }
+
+            @Override
+            public void eraseScreen() throws TerminalIoException {
+
+            }
+
+            @Override
+            public Dimension getScreenSize() throws TerminalIoException {
+                return null;
+            }
+
+            @Override
+            public void setInputEnabled(boolean b) {
+
+            }
+
+            @Override
+            public EventSource getEventSource() {
+                return null;
+            }
+        }</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qY2hhc3Npcy50ZXJtY3RsLlRlcm1pbmFsQ29udHJvbGxlcjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBQcm9jZXNzQnVpbGRlcigiY21kIiwgIi9jIiwgImNscyIpLmluaGVyaXRJTygpLnN0YXJ0KCkud2FpdEZvcigpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZS5nZXRSdW50aW1lKCkuZXhlYygiY2xlYXIiKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/userId/palyerId/g</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>current</last-search>
+      <last-offset />
+      <last-pattern>current</last-pattern>
+      <last-replace>palyerId</last-replace>
+      <last-substitute>userId</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>pianocat</entry>
+        <entry>CMD</entry>
+        <entry>print_us</entry>
+        <entry>use</entry>
+        <entry>getRank</entry>
+        <entry>userId</entry>
+        <entry>room</entry>
+        <entry>do</entry>
+        <entry>ready</entry>
+        <entry>exitMock</entry>
+        <entry>c_user_in</entry>
+        <entry>enter_room</entry>
+        <entry encoding="base64">XDxHYW1lXD4=</entry>
+        <entry>enter_roo</entry>
+        <entry>all</entry>
+        <entry>exit</entry>
+        <entry>create</entry>
+        <entry>reset</entry>
+        <entry>run</entry>
+        <entry>current</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/private/public/g</entry>
+        <entry>%s/public//g</entry>
+        <entry>%s/XingePushConsant\.log/log/g</entry>
+        <entry>%s/XingePushConstant\.log/log/g</entry>
+        <entry>%s/ UPDATE / ALTER /g</entry>
+        <entry>%s/currentUserId/curUserId/g</entry>
+        <entry>%s/\.toByteArray()//g</entry>
+        <entry>%s/logDebug/log\.debug/g</entry>
+        <entry>%s/log\.debug/System\.out\.println/g</entry>
+        <entry>%s/System\.out\.println/System\.out\.printf/g</entry>
+        <entry>%s/{}/%d/g</entry>
+        <entry>%s/%d/{}/g</entry>
+        <entry>%s/public RoomState/public boolean/g</entry>
+        <entry>%s/roomService\.//g</entry>
+        <entry>%s/static//g</entry>
+        <entry>%s/userId/palyerId/g</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
