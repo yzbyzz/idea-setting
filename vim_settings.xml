@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/System.java" timestamp="1548316996029">
-        <mark key="'" line="349" column="20" />
-        <mark key="[" line="352" column="30" />
-        <mark key="]" line="352" column="46" />
-      </file>
       <file name="D:/Project/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/config/Constant.java" timestamp="1548398897002">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -63,6 +58,12 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/AuthService.java" timestamp="1548476530984">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="27" />
+      </file>
       <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/resources/application-test.yml" timestamp="1547120141563">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -107,11 +108,20 @@
         <mark key="." line="23" column="58" />
         <mark key="^" line="23" column="58" />
       </file>
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/impl/BaiduRequestServer.java" timestamp="1548476598243">
+        <mark key="[" line="6" column="31" />
+      </file>
       <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/annotation/NettyServerChannelINitializer.java" timestamp="1545899234030">
         <mark key="[" line="9" column="41" />
         <mark key="]" line="9" column="41" />
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/doc/服务器升级记录.md" timestamp="1548476445978">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="49" column="10" />
+        <mark key="." line="49" column="10" />
+        <mark key="^" line="49" column="10" />
       </file>
       <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/userdata/PlayerData.java" timestamp="1546932092518">
         <mark key="[" line="9" column="26" />
@@ -331,10 +341,6 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="86" column="70" />
       </file>
-      <file name="D:/JavaProject/SimpleGame/lib/jc_ansiterm_0.1/stest/org/jchassis/termctl/ansi/TestAnsiTermctlBase.java" timestamp="1548322893913">
-        <mark key="[" line="51" column="28" />
-        <mark key="]" line="51" column="45" />
-      </file>
       <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/userdata/UserData.java" timestamp="1547808429666">
         <mark key="'" line="21" column="5" />
         <mark key="[" line="132" column="0" />
@@ -409,11 +415,20 @@
         <mark key="." line="52" column="68" />
         <mark key="^" line="52" column="68" />
       </file>
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/BaiduRequestService.java" timestamp="1548476654360">
+        <mark key="[" line="6" column="38" />
+      </file>
       <file name="D:/Project/f27/f27-piano-server-unity/app-socket/ctrl.sh" timestamp="1547120298151">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/impl/BaiduRequestServiceImpl.java" timestamp="1548476644109">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
       </file>
       <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/config/BaseConfig.java" timestamp="1546071208470">
         <mark key="[" line="31" column="0" />
@@ -440,17 +455,23 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/controller/AuthController.java" timestamp="1548475189387">
-        <mark key="'" line="29" column="55" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/controller/AuthController.java" timestamp="1548476546440">
+        <mark key="'" line="29" column="40" />
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="29" column="46" />
+        <mark key="^" line="27" column="67" />
+        <mark key="." line="29" column="46" />
       </file>
       <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" timestamp="1547015360114">
         <mark key="[" line="63" column="55" />
         <mark key="]" line="64" column="35" />
         <mark key="^" line="64" column="35" />
         <mark key="." line="64" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/impl/AuthServiceImpl.java" timestamp="1548476787560">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="D:/Project/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/RoomStateMachineAdapter.java" timestamp="1545989531051">
         <mark key="[" line="88" column="0" />
@@ -585,14 +606,14 @@
       <jump line="4" column="45" filename="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/controller/AuthController.java" />
       <jump line="14" column="6" filename="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/resources/application.yml" />
       <jump line="2" column="18" filename="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/resources/application.yml" />
-      <jump line="29" column="55" filename="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/controller/AuthController.java" />
+      <jump line="29" column="40" filename="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/controller/AuthController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, crazyGameTimestamp, userInfo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, crazyGameTimestamp, userInfo</text>
       </register>
       <register name="/" type="4">
         <text>current</text>
@@ -600,102 +621,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGVybWluYWxDb250cm9sbGVyLnB1dENoYXJhY3RlcnMoInRlc3QtLS0tIik7CiAgICAgICAgICAgIHRlcm1pbmFsQ29udHJvbGxlci5wdXRDaGFyYWN0ZXJzKCJ0ZXN0LS0tLSIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjcmF6eS1nYW1lOgogICAgICAgICAgICBzZWNyZXQ6IGFiZDNjMThkYjg5N2VkYzU0MzcwMjJhOGI0YjE2MzI3Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBVc2VySW5mb0RUTyB1c2VySW5mb0RUTyA9IHBhcnNlVXNlckluZm9EVE8oY29kZSwgdGltZXN0YW1wLCB1c2VySW5mbyk7CiAgICAgICAgVXNlciB1c2VyID0gbG9naW5BbmRHZW5lcmF0ZUdhbWVEYXRhSWZOZWVkKHVzZXJJbmZvRFRPLCBpcCk7CiAgICAgICAgcmV0dXJuIG5ldyBVc2VyVk8odXNlciwgdXNlckluZm9EVE8uZ2V0V3hPcGVuaWQoKSk7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlY29vbC5waWFuby5lbnRpdHkuVXNlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHRpbWVzdGFtcCwKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHVzZXJJbmZvLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9ATWFwcGVyU2NhbigiY29tLmZhY2Vjb29sLnBpYW5vY2F0LmFwcC5kYi5kYW8iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ1c2VySW5mbyIpIFN0cmluZyB1c2VySW5mbykgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0aW1lc3RhbXAiKSBTdHJpbmcgY3JhenlHYW1lVGltZXN0YW1wLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGltZS5zbAo=</text>
+        <text encoding="base64">ICAgICAgICBjcmF6eS1nYW1lOgogICAgICAgICAgICBzZWNyZXQ6IGFiZDNjMThkYjg5N2VkYzU0MzcwMjJhOGI0YjE2MzI3Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-            @Override
-            public void init() throws TerminalIoException {
-
-            }
-
-            @Override
-            public void reset() throws TerminalIoException {
-
-            }
-
-            @Override
-            public void moveCursor(Direction direction) throws TerminalIoException {
-
-            }
-
-            @Override
-            public void moveCursor(Direction direction, int i) throws TerminalIoException {
-
-            }
-
-            @Override
-            public void putCharacter(char c) throws TerminalIoException {
-
-            }
-
-            @Override
-            public void putCharacters(String s) throws TerminalIoException {
-
-            }
-
-            @Override
-            public Point getCursorPosition() throws TerminalIoException {
-                return null;
-            }
-
-            @Override
-            public void setCursorPosition(Point point) throws TerminalIoException {
-
-            }
-
-            @Override
-            public void home() throws TerminalIoException {
-
-            }
-
-            @Override
-            public void beep() throws TerminalIoException {
-
-            }
-
-            @Override
-            public void eraseScreen() throws TerminalIoException {
-
-            }
-
-            @Override
-            public Dimension getScreenSize() throws TerminalIoException {
-                return null;
-            }
-
-            @Override
-            public void setInputEnabled(boolean b) {
-
-            }
-
-            @Override
-            public EventSource getEventSource() {
-                return null;
-            }
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlY29vbC5waWFuby5lbnRpdHkuVXNlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qY2hhc3Npcy50ZXJtY3RsLlRlcm1pbmFsQ29udHJvbGxlcjsK</text>
+        <text encoding="base64">Ly9ATWFwcGVyU2NhbigiY29tLmZhY2Vjb29sLnBpYW5vY2F0LmFwcC5kYi5kYW8iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBQcm9jZXNzQnVpbGRlcigiY21kIiwgIi9jIiwgImNscyIpLmluaGVyaXRJTygpLnN0YXJ0KCkud2FpdEZvcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZS5nZXRSdW50aW1lKCkuZXhlYygiY2xlYXIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltZS5zbAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/userId/palyerId/g</text>
