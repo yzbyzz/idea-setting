@@ -445,6 +445,12 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/controller/AuthController.java" timestamp="1548472262214">
+        <mark key="'" line="3" column="45" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" timestamp="1547015360114">
         <mark key="[" line="63" column="55" />
         <mark key="]" line="64" column="35" />
@@ -485,7 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="64" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/test/java/com/facecool/pianocat/app/socket/test/mockclient/NettyClientHandler.java" />
       <jump line="65" column="20" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/test/java/com/facecool/pianocat/app/socket/test/mockclient/NettyClientHandler.java" />
       <jump line="34" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/test/java/com/facecool/pianocat/app/socket/test/mockclient/NettyClientHandler.java" />
       <jump line="32" column="8" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/test/java/com/facecool/pianocat/app/socket/test/mockclient/NettyClientHandler.java" />
@@ -585,10 +590,11 @@
       <jump line="63" column="0" filename="D:/Project/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/config/PkConfig.java" />
       <jump line="27" column="59" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/config/PkConfig.java" />
       <jump line="23" column="42" filename="D:/Project/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/config/PkConfig.java" />
+      <jump line="4" column="45" filename="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/controller/AuthController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly9ATWFwcGVyU2NhbigiY29tLmZhY2Vjb29sLnBpYW5vY2F0LmFwcC5kYi5kYW8iKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlY29vbC5waWFuby5lbnRpdHkuVXNlcjsK</text>
       </register>
       <register name="-" type="4">
         <text>Constant</text>
@@ -600,15 +606,18 @@
         <text encoding="base64">ICAgICAgICAgICAgdGVybWluYWxDb250cm9sbGVyLnB1dENoYXJhY3RlcnMoInRlc3QtLS0tIik7CiAgICAgICAgICAgIHRlcm1pbmFsQ29udHJvbGxlci5wdXRDaGFyYWN0ZXJzKCJ0ZXN0LS0tLSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9ATWFwcGVyU2NhbigiY29tLmZhY2Vjb29sLnBpYW5vY2F0LmFwcC5kYi5kYW8iKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlY29vbC5waWFuby5lbnRpdHkuVXNlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly9ATWFwcGVyU2NhbigiY29tLmZhY2Vjb29sLnBpYW5vY2F0LmFwcC5kYi5kYW8iKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVGltZS5zbAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
             @Override
             public void init() throws TerminalIoException {
@@ -681,17 +690,14 @@
             }
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qY2hhc3Npcy50ZXJtY3RsLlRlcm1pbmFsQ29udHJvbGxlcjsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBQcm9jZXNzQnVpbGRlcigiY21kIiwgIi9jIiwgImNscyIpLmluaGVyaXRJTygpLnN0YXJ0KCkud2FpdEZvcigpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZS5nZXRSdW50aW1lKCkuZXhlYygiY2xlYXIiKTsK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZS5nZXRSdW50aW1lKCkuZXhlYygiY2xlYXIiKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
