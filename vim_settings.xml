@@ -8,6 +8,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/resources/application-dev.yml" timestamp="1548490522108">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="5" column="55" />
+        <mark key="." line="7" column="31" />
+      </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/test/java/com/facecool/piano/service/BaiduRequestServiceTest.java" timestamp="1548488740797">
         <mark key="[" line="23" column="29" />
         <mark key="]" line="23" column="60" />
@@ -32,12 +38,12 @@
         <mark key="." line="50" column="35" />
         <mark key="^" line="50" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/doc/数据库/db.sql" timestamp="1548489542617">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="26" column="87" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/doc/数据库/db.sql" timestamp="1548490689276">
+        <mark key="'" line="84" column="34" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
       </file>
       <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/Free.java" timestamp="1547198277928">
         <mark key="[" line="17" column="0" />
@@ -50,6 +56,12 @@
         <mark key="]" line="103" column="36" />
         <mark key="^" line="103" column="36" />
         <mark key="." line="103" column="36" />
+      </file>
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/resources/application-prod.yml" timestamp="1548490526309">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="55" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/BaiduRequestService.java" timestamp="1548483703832">
         <mark key="[" line="9" column="13" />
@@ -109,12 +121,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/impl/UserPlatformServiceImpl.java" timestamp="1548486093148">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/impl/GameDataServiceImpl.java" timestamp="1548488395805">
         <mark key="[" line="19" column="0" />
@@ -195,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="19" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/RobotSession.java" />
       <jump line="106" column="25" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/UserSession.java" />
       <jump line="111" column="43" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/Room.java" />
       <jump line="40" column="45" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/RoomStateMachineAdapter.java" />
@@ -295,43 +300,44 @@
       <jump line="25" column="20" filename="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/impl/UserServiceImpl.java" />
       <jump line="7" column="0" filename="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/doc/数据库/db.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/doc/数据库/db.sql" />
+      <jump line="84" column="34" filename="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/doc/数据库/db.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>N</text>
+        <text>%</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>current</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5Yib5bu65paw55So5oi344CC6L+U5ZueIHVzZXJJZAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZTogcGlhbm8KICAgICAgICBwYXNzd29yZDogcGlhbm8uLnp6QCMkMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZTogZjI3X3BpYW5vX2FkbWluCiAgICAgICAgcGFzc3dvcmQ6IGYyN19waWFuby4ubGgjJGV6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VyCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g55CG6K665LiK5LiN5Lya5Ye6546w6L+Z56eN5oOF5Ya144CC5Lul6Ziy5LiH5LiA44CCCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJVc2VyID0gbnVsbCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g55CG6K665LiK5LiN5Lya5Ye6546w6L+Z56eN5oOF5Ya144CC5Lul6Ziy5LiH5LiA44CCCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZ2VuZXJhdGVHYW1lRGF0YUFuZFNhdmVJZk5lZWQoT2xkVXNlciBvbGRVc2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJVc2VyID0gbnVsbCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgZ2VuZXJhdGVHYW1lRGF0YUFuZFNhdmVJZk5lZWQoT2xkVXNlciBvbGRVc2VyKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
