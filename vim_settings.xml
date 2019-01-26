@@ -20,6 +20,12 @@
         <mark key="^" line="23" column="60" />
         <mark key="." line="23" column="60" />
       </file>
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27-piano-server-unity/app-db/doc/db/create.sql" timestamp="1548506384567">
+        <mark key="[" line="16" column="60" />
+        <mark key="]" line="16" column="64" />
+        <mark key="^" line="16" column="64" />
+        <mark key="." line="16" column="64" />
+      </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/config/customenum/PlatformIdEnum.java" timestamp="1548485972856">
         <mark key="[" line="20" column="11" />
         <mark key="]" line="20" column="11" />
@@ -112,11 +118,6 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/UserPlatformService.java" timestamp="1548486079437">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="D:/Project/f27/f27-piano-server-unity/app-web/src/main/java/com/facecool/pianocat/app/web/WebApplication.java" timestamp="1548402074258">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -140,11 +141,6 @@
         <mark key="." line="49" column="70" />
         <mark key="^" line="49" column="70" />
       </file>
-      <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/repository/UserRepository.java" timestamp="1548486249451">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/UserService.java" timestamp="1548489416656">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="20" column="22" />
@@ -160,6 +156,9 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/PlayerSessionRepository.java" timestamp="1548390321622">
+        <mark key="'" line="31" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/impl/BaiduRequestServiceImpl.java" timestamp="1548489262150">
         <mark key="'" line="56" column="36" />
@@ -182,6 +181,9 @@
         <mark key="^" line="31" column="76" />
         <mark key="." line="31" column="76" />
       </file>
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27-piano-server-unity/common/src/main/resources/common/configs/robots.json" timestamp="1548505774556">
+        <mark key="'" line="1463" column="3" />
+      </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/controller/GameDataController.java" timestamp="1548489040772">
         <mark key="[" line="50" column="51" />
         <mark key="]" line="50" column="51" />
@@ -201,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="25" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/UserSession.java" />
       <jump line="111" column="43" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/Room.java" />
       <jump line="40" column="45" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/RoomStateMachineAdapter.java" />
       <jump line="33" column="31" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/scheduled/ScheduledTaskRunner.java" />
@@ -301,6 +302,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/doc/数据库/db.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/doc/数据库/db.sql" />
       <jump line="84" column="34" filename="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/doc/数据库/db.sql" />
+      <jump line="1463" column="3" filename="$USER_HOME$/Workspace/facecool/f27/f27-piano-server-unity/common/src/main/resources/common/configs/robots.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
