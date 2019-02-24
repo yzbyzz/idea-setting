@@ -130,12 +130,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="40" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/facecool/f27/f27-piano-server-unity/admin-web/src/main/java/com/facecool/pianocat/admin/web/controller/api/ConfigVersionController.java" timestamp="1551003099068">
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27-piano-server-unity/admin-web/src/main/java/com/facecool/pianocat/admin/web/controller/api/ConfigVersionController.java" timestamp="1551004163157">
         <mark key="'" line="22" column="1" />
-        <mark key="[" line="32" column="38" />
-        <mark key="]" line="33" column="45" />
-        <mark key="." line="33" column="45" />
-        <mark key="^" line="33" column="45" />
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+        <mark key="^" line="32" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/dto/BaiduAuthDTO.java" timestamp="1548483489408">
         <mark key="[" line="10" column="26" />
@@ -304,11 +304,11 @@
       <jump line="28" column="13" filename="$USER_HOME$/Workspace/facecool/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/repository/usersession/RobotSessionRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>Rest</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>current</text>
