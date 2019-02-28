@@ -146,11 +146,11 @@
         <mark key="^" line="20" column="29" />
         <mark key="." line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/facecool/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/util/JsonUtil.java" timestamp="1551284603248">
-        <mark key="[" line="127" column="41" />
-        <mark key="]" line="129" column="36" />
-        <mark key="^" line="129" column="36" />
-        <mark key="." line="129" column="36" />
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/util/JsonUtil.java" timestamp="1551314026270">
+        <mark key="[" line="128" column="61" />
+        <mark key="]" line="128" column="75" />
+        <mark key="^" line="128" column="75" />
+        <mark key="." line="128" column="75" />
       </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/config/customenum/PlatformIdEnum.java" timestamp="1548485972856">
         <mark key="[" line="20" column="11" />
@@ -306,11 +306,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/Workspace/facecool/f27/f27-piano-server-unity/common/src/main/resources/common/configs/pk.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>current</text>
