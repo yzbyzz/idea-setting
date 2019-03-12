@@ -64,12 +64,12 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/facecool/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/util/Test.java" timestamp="1552264534784">
-        <mark key="'" line="22" column="4" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="33" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Workspace/facecool/f27/f27-piano-server-unity/common/src/main/java/com/facecool/common/util/Test.java" timestamp="1552351290357">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="24" column="53" />
+        <mark key="^" line="24" column="53" />
+        <mark key="." line="24" column="53" />
       </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/doc/数据库/db.sql" timestamp="1548490689276">
         <mark key="'" line="84" column="34" />
@@ -314,16 +314,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKGFycmF5KSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGxpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdDEpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>Integer::compareTo::reversed</text>
       </register>
       <register name="/" type="4">
         <text>current</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKGFycmF5KSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGxpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdDEpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
