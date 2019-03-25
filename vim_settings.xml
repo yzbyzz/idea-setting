@@ -63,11 +63,10 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/ThreadTest.java" timestamp="1553213720694">
-        <mark key="[" line="19" column="102" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="20" column="29" />
+      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/ThreadTest.java" timestamp="1553473213011">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/UserService.java" timestamp="1548489416656">
         <mark key="[" line="19" column="13" />
@@ -243,16 +242,15 @@
       <file name="/fragment.java" timestamp="1552782179242">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/Res.java" timestamp="1553435075251">
+      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/Res.java" timestamp="1553473188304">
         <mark key="'" line="16" column="8" />
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="45" />
-        <mark key="^" line="21" column="45" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="17" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1463" column="3" filename="D:/Project/f27/f27-piano-server-unity/common/src/main/resources/common/configs/robots.json" />
       <jump line="76" column="19" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/usersession/UserSession.java" />
       <jump line="1464" column="2" filename="D:/Project/f27/f27-piano-server-unity/common/src/main/resources/common/configs/robots.json" />
       <jump line="59" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/RoomStateMachineAdapter.java" />
@@ -352,13 +350,14 @@
       <jump line="34" column="7" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Res.java" />
       <jump line="19" column="8" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Res.java" />
       <jump line="16" column="8" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Res.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/ThreadTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int h : height</text>
+        <text>throws InterruptedException</text>
       </register>
       <register name="-" type="4">
-        <text>int h : height</text>
+        <text>throws InterruptedException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -367,31 +366,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzLm15QXRvaSgiLS0tMTIzIikpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBUaHJlYWQgdGhyZWFkID0gbmV3IFRocmVhZCgoKSAtPiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigibmV3IHRocmVhZCBydW5uaW5nLi4uIik7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGhyZWFkOiIgKyBUaHJlYWQuY3VycmVudFRocmVhZCgpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIxLWludGVycnVwdGVkPyIgKyBUaHJlYWQuY3VycmVudFRocmVhZCgpLmlzSW50ZXJydXB0ZWQoKSk7CgoKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGxvbmcgbm93ID0gMDsKICAgICAgICAgICAgICAgIGxvbmcgZW5kID0gKGxvbmcpMWUxODsKICAgICAgICAgICAgICAgIHdoaWxlIChub3cgPCBlbmQpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pc0ludGVycnVwdGVkKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI0LWludGVycnVwdGVkPyIgKyBUaHJlYWQuY3VycmVudFRocmVhZCgpLmlzSW50ZXJydXB0ZWQoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBub3crKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiMi1pbnRlcnJ1cHRlZD8iICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pc0ludGVycnVwdGVkKCkpOwogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQoKCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiMy1pbnRlcnJ1cHRlZD8iICsgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5pc0ludGVycnVwdGVkKCkpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5ldyB0aHJlYWQgZW5kIik7CiAgICAgICAgfSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGhyZWFkOiIgKyBUaHJlYWQuY3VycmVudFRocmVhZCgpKTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdGFydCB0aHJlYWQiKTsKICAgICAgICB0aHJlYWQuc3RhcnQoKTsKICAgICAgICBUaHJlYWQuc2xlZXAoMjAwKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImludGVycnVwdCB0aHJlYWQiKTsKICAgICAgICB0aHJlYWQuaW50ZXJydXB0KCk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGhyZWFkOiIgKyBUaHJlYWQuY3VycmVudFRocmVhZCgpKTs=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">aGUKICAgIA==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbm9kZXM7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBub2Rlcy5zb3J0KCk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8Pgo=</text>
+        <text encoding="base64">ICAgIGwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/userId/palyerId/g</text>
