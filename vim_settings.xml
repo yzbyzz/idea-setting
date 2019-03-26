@@ -244,16 +244,15 @@
       <file name="/fragment.java" timestamp="1552782179242">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/Res.java" timestamp="1553612932628">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="46" />
+      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/Res.java" timestamp="1553615138100">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="41" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="47" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/Free.java" />
       <jump line="19" column="12" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/Free.java" />
       <jump line="20" column="40" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/Free.java" />
       <jump line="38" column="19" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/entity/room/statemachine/AllUserReady.java" />
@@ -353,13 +352,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/ThreadTest.java" />
       <jump line="19" column="16" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/ThreadTest.java" />
       <jump line="31" column="38" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/ThreadTest.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Res.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXMubWF4QXJlYShuZXcgaW50W117fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -368,31 +368,31 @@
         <text encoding="base64">ICAgICAgICByZXMubWF4QXJlYShuZXcgaW50W117fSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXMubWF4QXJlYShuZXcgaW50W117fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHByaW50RGlnaXQgPSB0cnVlOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlICh0cnVlKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jay5sb2NrKCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGlkeCA9IENvbGxlY3Rpb25zLmJpbmFyeVNlYXJjaChub2RlcywgbmV3IE5vZGUoaGVpZ2h0W2ldLCBpKSk7CiAgICAgICAgICAgIGlmIChpZHggPCAwKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAgICAgaW50IHRtcCA9IChub2Rlcy5nZXQoaWR4KS5nZXRQb3MoKSAtIGkpICogaGVpZ2h0W2ldOwogICAgICAgICAgICBhbnMgPSBNYXRoLm1heChhbnMsIHRtcCk7</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIEEgYmFuayB3aXRoIGEgbnVtYmVyIG9mIGJhbmsgYWNjb3VudHMgdGhhdCB1c2VzIGxvY2tzIGZvciBzZXJpYWxpemluZyBhY2Nlc3MuICogQHZlcnNpb24gMS4zMCAyMDA0LTA4LTAxCiAqCiAqIEBhdXRob3IgQ2F5IEhvcnN0bWFubgogKi8KY2xhc3MgQmFuayB7Cgp9Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBBcnJheXMucmVzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTWF0aC5tYXgoc29sdmUoaGVpZ2h0LCB0cnVlKSwgc29sdmUoaGVpZ2h0LCBmYWxzZSkpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBpbnQgc3RhcnQsIGVuZCwgc3RlcDsKICAgICAgICBpZiAoYXNjT3JkZXIpIHsKICAgICAgICAgICAgc3RhcnQgPSAwOwogICAgICAgICAgICBlbmQgPSBoZWlnaHQubGVuZ3RoOwogICAgICAgICAgICBzdGVwID0gMTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzdGFydCA9IGhlaWdodC5sZW5ndGggLSAxOwogICAgICAgICAgICBlbmQgPSAtMTsKICAgICAgICAgICAgc3RlcCA9IC0xOwogICAgICAgIH0KCiAgICAgICAgTGlzdDxOb2RlPiBub2RlcyA9IGJ1aWxkKGhlaWdodCwgYXNjT3JkZXIpOwogICAgICAgIGludCBhbnMgPSBNYXRoLm1pbihoZWlnaHRbMF0sIGhlaWdodFsxXSk7CgogICAgICAgIGZvciAoaW50IGkgPSBzdGFydDsgaSAhPSBlbmQ7IGkgKz0gc3RlcCkgewoKICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>%s/userId/palyerId/g</text>
