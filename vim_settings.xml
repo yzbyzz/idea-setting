@@ -63,10 +63,11 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/ThreadTest.java" timestamp="1553647571446">
-        <mark key="[" line="61" column="36" />
-        <mark key="]" line="61" column="36" />
-        <mark key="." line="61" column="36" />
+      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/ThreadTest.java" timestamp="1553820123176">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+        <mark key="^" line="20" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/UserService.java" timestamp="1548489416656">
         <mark key="[" line="19" column="13" />
