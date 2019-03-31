@@ -68,12 +68,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" timestamp="1553961110971">
-        <mark key="'" line="28" column="18" />
-        <mark key="[" line="10" column="77" />
-        <mark key="]" line="10" column="77" />
-        <mark key="." line="10" column="77" />
-        <mark key="^" line="10" column="77" />
+      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" timestamp="1554000168082">
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/UserService.java" timestamp="1548489416656">
         <mark key="[" line="19" column="13" />
@@ -259,8 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="7" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/LogService.java" />
-      <jump line="19" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/LogService.java" />
       <jump line="16" column="4" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/LogService.java" />
       <jump line="43" column="27" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/service/LogService.java" />
       <jump line="46" column="0" filename="D:/Project/f27/f27-piano-server-unity/app-socket/src/main/java/com/facecool/pianocat/app/socket/handler/BusinessHandler.java" />
@@ -359,46 +357,48 @@
       <jump line="137" column="8" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/ThreadTest.java" />
       <jump line="166" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/ThreadTest.java" />
       <jump line="28" column="18" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
+      <jump line="57" column="47" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
+      <jump line="59" column="4" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1pbltwb3NdID0gTWF0aC5taW4odGhpcy5taW5bcG9zIDw8IDExXSwgdGhpcy5taW5bcG9zIDw8IDEgfCAxXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXdMaXN0LmFkZChudW1zW2ldKTsKICAgICAgICAgICAgICAgICAgICBuZXdMaXN0LmFkZChudW1zW2pdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTZWdtZW50VHJlZSB0cmVlID0gbmV3IFNlZ21lbnRUcmVlKGhlaWdodCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNsYXNzIFNlZ21lbnRUcmVlIHsKICAgIHByaXZhdGUgaW50W10gbWF4OwogICAgcHJpdmF0ZSBpbnQgbnVtOwoKICAgIFNlZ21lbnRUcmVlKGludFtdIGRhdGEpIHsKICAgICAgICBudW0gPSBkYXRhLmxlbmd0aDsKICAgICAgICB0aGlzLm1heCA9IG5ldyBpbnRbKG51bSA8PCAxKV07CiAgICAgICAgYnVpbGQoMSwgMSwgbnVtLCBkYXRhKTsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgYnVpbGQoaW50IHBvcywgaW50IGwsIGludCByLCBpbnRbXSBkYXRhKSB7CiAgICAgICAgaWYgKGwgPT0gcikgewogICAgICAgICAgICB0aGlzLm1heFtwb3NdID0gZGF0YVtsXTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgaW50IG0gPSAobCArIHIpID4+IDE7CiAgICAgICAgYnVpbGQocG9zIDw8IDEsIGwsIG0sIGRhdGEpOwogICAgICAgIGJ1aWxkKHBvcyA8PCAxIHwgMSwgbSArIDEsIHIsIGRhdGEpOwoKICAgICAgICB0aGlzLm1heFtwb3NdID0gTWF0aC5tYXgodGhpcy5tYXhbcG9zIDw8IDExXSwgdGhpcy5tYXhbcG9zIDw8IDEgfCAxXSk7CiAgICB9CgogICAgcHVibGljIGludCBxdWVyeU1heChpbnQgbCwgaW50IHIpIHsKICAgICAgICByZXR1cm4gcXVlcnlNYXgoMSwgMSwgbnVtLCBsLCByKTsKICAgIH0KCiAgICBwcml2YXRlIGludCBxdWVyeU1heChpbnQgcG9zLCBpbnQgbCwgaW50IHIsIGludCB0bCwgaW50IHRyKSB7CiAgICAgICAgaWYgKGwgPT0gcikgewogICAgICAgICAgICByZXR1cm4gbWF4W3Bvc107CiAgICAgICAgfQoKICAgICAgICBpZiAodGwgPD0gbCAmJiB0ciA+PSByKSB7CiAgICAgICAgICAgIHJldHVybiBtYXhbcG9zXTsKICAgICAgICB9CgogICAgICAgIGludCBtID0gKGwgKyByKSA+PiAxOwogICAgICAgIGludCBhbnMgPSBJbnRlZ2VyLk1JTl9WQUxVRTsKCiAgICAgICAgaWYgKHRsIDw9IG0pIHsKICAgICAgICAgICAgaW50IHRtcCA9IHF1ZXJ5TWF4KHBvcyA8PCAxLCBsLCBtLCB0bCwgdHIpOwogICAgICAgICAgICBhbnMgPSBNYXRoLm1heChhbnMsIHRtcCk7CiAgICAgICAgfQogICAgICAgIGlmICh0ciA+IG0pIHsKICAgICAgICAgICAgaW50IHRtcCA9IHF1ZXJ5TWF4KHBvcyA8PCAxIHwgMSwgbSArIDEsIHIsIHRsLCB0cik7CiAgICAgICAgICAgIGFucyA9IE1hdGgubWF4KGFucywgdG1wKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBhbnM7CiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1pbltwb3NdID0gTWF0aC5taW4odGhpcy5taW5bcG9zIDw8IDExXSwgdGhpcy5taW5bcG9zIDw8IDEgfCAxXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5taW5bcG9zXSA9IGRhdGFbbF07Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBmaW5kUmVwZWF0ZWQoTGlzdDxMaXN0PEludGVnZXI+PiBkYXRhLCBpbnQgaWR4KSB7CiAgICAgICAgaWYgKGlkeCA9PSAwKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgTGlzdDxJbnRlZ2VyPiB0YXJnZXQgPSBkYXRhLmdldChpZHgpOwogICAgICAgIExpc3Q8SW50ZWdlcj4gcHJlID0gZGF0YS5nZXQoaWR4IC0gMSk7CgogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgdGFyZ2V0LnNpemUoKSAmJiBpIDwgcHJlLnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgIGlmICghdGFyZ2V0LmdldChpKS5lcXVhbHMocHJlLmdldChpKSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50W10gbWluOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxMaXN0PEludGVnZXI+PiByZW1vdmVSZXBlYXRlZChMaXN0PExpc3Q8SW50ZWdlcj4+IGRhdGEpIHsKICAgICAgICBkYXRhLmZvckVhY2godmFsIC0+IHZhbC5zb3J0KEludGVnZXI6OmNvbXBhcmVUbykpOwogICAgICAgIGRhdGEuc29ydCgoYSwgYikgLT4gewogICAgICAgICAgICBpbnQgaTsKICAgICAgICAgICAgZm9yIChpID0gMDsgaSA8IGEuc2l6ZSgpICYmIGkgPCBiLnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICBpZiAoIWEuZ2V0KGkpLmVxdWFscyhiLmdldChpKSkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gSW50ZWdlci5jb21wYXJlKGEuZ2V0KGkpLCBiLmdldChpKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfSk7CgogICAgICAgIGZvciAoaW50IGkgPSBkYXRhLnNpemUoKSAtIDE7IGkgPj0gMDsgaS0tKSB7CiAgICAgICAgICAgIGlmIChmaW5kUmVwZWF0ZWQoZGF0YSwgaSkpIHsKICAgICAgICAgICAgICAgIGRhdGEucmVtb3ZlKGkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBkYXRhOwogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWxMaXN0LmZvckVhY2godmFsIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbgogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZhbC5nZXQoMCkuZXF1YWxzKG5ld0xpc3QuZ2V0KDApKSAmJiB2YWwuZ2V0KDEpLmVxdWFscyhuZXdMaXN0LmdldCgxKSkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/userId/palyerId/g</text>
