@@ -68,12 +68,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" timestamp="1554078080414">
+      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" timestamp="1554251555184">
         <mark key="'" line="22" column="51" />
-        <mark key="[" line="28" column="55" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="19" />
+        <mark key="[" line="15" column="68" />
+        <mark key="]" line="15" column="71" />
+        <mark key="." line="15" column="71" />
+        <mark key="^" line="15" column="71" />
       </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/UserService.java" timestamp="1548489416656">
         <mark key="[" line="19" column="13" />
@@ -362,44 +362,44 @@
       <jump line="22" column="51" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NrCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWFwLnJlZHVjZVZhbHVlcygxMDAwLCB2IC0+IHYgPiAxMCA/IDEgOiAwLCBJbnRlZ2VyOjpzdW0pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICBDb25kaXRpb24K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBMb2NrCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBUaHJlYWQK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0YWlsLm5leHQgPQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB3aGlsZSAobDEgIT0gbikK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICogCiAqIAogKiAKICog</text>
       </register>
       <register name=":" type="4">
         <text>%s/userId/palyerId/g</text>
