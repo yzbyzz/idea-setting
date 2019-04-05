@@ -68,12 +68,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" timestamp="1554436662101">
-        <mark key="'" line="11" column="71" />
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="18" column="44" />
-        <mark key="." line="18" column="44" />
-        <mark key="^" line="18" column="44" />
+      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" timestamp="1554479875707">
+        <mark key="'" line="17" column="22" />
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="19" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/UserService.java" timestamp="1548489416656">
         <mark key="[" line="19" column="13" />
@@ -341,7 +341,6 @@
       <jump line="28" column="18" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="57" column="47" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="59" column="4" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="30" column="9" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="49" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
@@ -360,46 +359,47 @@
       <jump line="12" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="27" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="11" column="71" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
+      <jump line="17" column="22" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkKG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKSB7ewogICAgICAgICAgICAgICAgYWRkKDEpOwogICAgICAgICAgICAgICAgYWRkKDIpOwogICAgICAgICAgICB9fSk7</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKGEpKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgYWRkKG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKSB7ewogICAgICAgICAgICAgICAgYWRkKDEpOwogICAgICAgICAgICAgICAgYWRkKDIpOwogICAgICAgICAgICB9fSk7</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBuZXN0ZWRMaXN0ID0gQXJyYXlzCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICBpbnQgcCA9IDA7CiAgICAgICAgaW50IHEgPSAxOwogICAgICAgIGZvciA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB3aGlsZSAocSA8IG51bXMubGVuZ3RoKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBpbnQgZW5kID0gbnVtcy5sZW5ndGg7CgogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgZW5kOyBpKyspIHsKICAgICAgICAgICAgaWYgKGkgPT0gMCB8fCBudW1zW2ldICE9IG51bXNbaSAtIDFdKSB7CiAgICAgICAgICAgICAgICB1bmlxdWVOdW0rKzsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CgoKICAgICAgICAgICAgZm9yIChpbnQgaiA9IGkgKyAxOyBqIDwgZW5kOyBqKyspIHsKICAgICAgICAgICAgICAgIG51bXNbaiAtIDFdID0gbnVtc1tqXTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpLS07CiAgICAgICAgICAgIGVuZC0tOwogICAgICAgIH0KIA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yICgpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBMaXN0Tm9kZSBsMSA9IG5ldyBMaXN0Tm9kZSgxKTsKICAgICAgICBMaXN0Tm9kZSBsMiA9IG5ldyBMaXN0Tm9kZSg0KTsKICAgICAgICBMaXN0Tm9kZSBsMyA9IG5ldyBMaXN0Tm9kZSg1KTsKICAgICAgICBsMS5uZXh0ID0gbDI7CiAgICAgICAgbDIubmV4dCA9IGwzOwoKCi8vICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGVldC5yZXZlcnNlS0dyb3VwKGwxLCAxKSk7Ci8vICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGVldC5yZXZlcnNlS0dyb3VwKGwxLCAyKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGxlZXQucmV2ZXJzZUtHcm91cChsMSwgMykpOwogICAgfQoKICAgIHB1YmxpYyBMaXN0Tm9kZSByZXZlcnNlS0dyb3VwKExpc3ROb2RlIGhlYWQsIGludCBrKSB7CiAgICAgICAgaWYgKGhlYWQgPT0gbnVsbCB8fCBrIDw9IDApIHsKICAgICAgICAgICAgcmV0dXJuIGhlYWQ7CiAgICAgICAgfQogICAgICAgIExpc3ROb2RlIHByZSA9IG51bGw7CiAgICAgICAgTGlzdE5vZGUgdG1wOwogICAgICAgIExpc3ROb2RlIGN1clJhbmdlU3RhcnQgPSBoZWFkOwogICAgICAgIExpc3ROb2RlIGN1clJhbmdlRW5kOwogICAgICAgIExpc3ROb2RlIG5leHRSYW5nZVN0YXJ0OwogICAgICAgIGludCBjbnQ7CgogICAgICAgIHdoaWxlIChjdXJSYW5nZVN0YXJ0ICE9IG51bGwpIHsKICAgICAgICAgICAgY250ID0gMTsKICAgICAgICAgICAgY3VyUmFuZ2VFbmQgPSBjdXJSYW5nZVN0YXJ0OwogICAgICAgICAgICB3aGlsZSAoY250IDwgayAmJiBjdXJSYW5nZUVuZCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBjbnQrKzsKICAgICAgICAgICAgICAgIGN1clJhbmdlRW5kID0gY3VyUmFuZ2VFbmQubmV4dDsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoY250IDwgayB8fCBjdXJSYW5nZUVuZCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgICAgICBuZXh0UmFuZ2VTdGFydCA9IGN1clJhbmdlRW5kLm5leHQ7CgogICAgICAgICAgICBzd2FwUmFuZ2UoY3VyUmFuZ2VTdGFydCwgayk7CiAgICAgICAgICAgIHRtcCA9IGN1clJhbmdlU3RhcnQ7CiAgICAgICAgICAgIGN1clJhbmdlU3RhcnQgPSBjdXJSYW5nZUVuZDsKICAgICAgICAgICAgY3VyUmFuZ2VFbmQgPSB0bXA7CgogICAgICAgICAgICBpZiAocHJlID09IG51bGwpIHsKICAgICAgICAgICAgICAgIGhlYWQgPSBjdXJSYW5nZVN0YXJ0OwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcHJlLm5leHQgPSBjdXJSYW5nZVN0YXJ0OwogICAgICAgICAgICB9CiAgICAgICAgICAgIHByZSA9IGN1clJhbmdlRW5kOwogICAgICAgICAgICBwcmUubmV4dCA9IG5leHRSYW5nZVN0YXJ0OwogICAgICAgICAgICBjdXJSYW5nZVN0YXJ0ID0gbmV4dFJhbmdlU3RhcnQ7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gaGVhZDsKICAgIH0KCiAgICBwcml2YXRlIExpc3ROb2RlIHN3YXBSYW5nZShMaXN0Tm9kZSBzdGFydCwgaW50IGspIHsKICAgICAgICBpZiAoayA8PSAxKSB7CiAgICAgICAgICAgIHJldHVybiBzdGFydDsKICAgICAgICB9CiAgICAgICAgTGlzdE5vZGUgaGVhZCA9IG51bGw7CiAgICAgICAgTGlzdE5vZGUgbmV4dDsKICAgICAgICB3aGlsZSAoay0tID4gMCkgewogICAgICAgICAgICBuZXh0ID0gc3RhcnQubmV4dDsKCiAgICAgICAgICAgIGlmIChoZWFkID09IG51bGwpIHsKICAgICAgICAgICAgICAgIGhlYWQgPSBzdGFydDsKICAgICAgICAgICAgICAgIGhlYWQubmV4dCA9IG51bGw7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBzdGFydC5uZXh0ID0gaGVhZDsKICAgICAgICAgICAgICAgIGhlYWQgPSBzdGFydDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgc3RhcnQgPSBuZXh0OwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGhlYWQ7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBjbGFzcyBMaXN0Tm9kZSB7CiAgICAgICAgaW50IHZhbDsKICAgICAgICBMaXN0Tm9kZSBuZXh0OwoKICAgICAgICBMaXN0Tm9kZShpbnQgeCkgewogICAgICAgICAgICB2YWwgPSB4OwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBzdHJpbmdCdWlsZGVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICAgICAgTGlzdE5vZGUgY3VyID0gdGhpczsKICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQoIlsiKTsKICAgICAgICAgICAgd2hpbGUgKGN1ciAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZChjdXIudmFsKS5hcHBlbmQoIi0+Iik7CiAgICAgICAgICAgICAgICBjdXIgPSBjdXIubmV4dDsKICAgICAgICAgICAgfQogICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCgiXSIpOwogICAgICAgICAgICByZXR1cm4gc3RyaW5nQnVpbGRlci50b1N0cmluZygpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3VyUmFuZ2VFbmQgPSBjdXJSYW5nZVN0YXJ0Owo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0Tm9kZSB0bXA7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgdG1wID0gY3VyUmFuZ2VFbmQ7CiAgICAgICAgICAgIGN1clJhbmdlRW5kID0gY3VyUmFuZ2VTdGFydDsKICAgICAgICAgICAgY3VyUmFuZ2VTdGFydCA9IHRtcDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/userId/palyerId/g</text>
