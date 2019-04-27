@@ -68,10 +68,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" timestamp="1556331807072">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" timestamp="1556332613969">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/facecool/f27/f27_piano_server/src/main/java/com/facecool/piano/service/UserService.java" timestamp="1548489416656">
         <mark key="[" line="19" column="13" />
@@ -346,7 +347,6 @@
       <jump line="71" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="22" column="51" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="94" column="4" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
-      <jump line="37" column="70" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="36" column="57" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="27" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="40" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
@@ -356,13 +356,14 @@
       <jump line="21" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="15" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
       <jump line="20" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Workspace/java/test/src/main/java/test/Leet.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyLk1JTl9WQUxVRQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>[i]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
@@ -371,31 +372,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYm9hcmRbcl1bY10gPSBRVUVVRTsKICAgICAgICAgICAgdmlzUltyXSA9IHRydWU7CiAgICAgICAgICAgIHZpc0NbY10gPSB0cnVlOwogICAgICAgICAgICB2aXNMVFtyIC0gYyArIG5dID0gdHJ1ZTsKICAgICAgICAgICAgdmlzUlRbciArIGNdID0gdHJ1ZTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyLk1JTl9WQUxVRQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcmNMaXN0LmdldChpKVsxXSA9IHNyY0xpc3QuZ2V0KGopWzFdOwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PGludFtdPiBhbnMgPSBuZXcgTGlua2VkTGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGludGVydmFscy5sZW5ndGg7IGkrKykgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYW5zLnRvQXJyYXkobmV3IGludFswXVtdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghdmlzW2pdKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBBcnJheXMuc29ydChpbnRlcnZhbHMsIChvMSwgbzIpIC0+IHsKICAgICAgICAgICAgaWYgKG8xWzBdICE9IG8yWzBdKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gSW50ZWdlci5jb21wYXJlKG8xWzBdLCBvMlswXSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIEludGVnZXIuY29tcGFyZShvMVsxXSwgbzJbMV0pOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyLk1JTl9WQUxVRQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXVtdIGFuc0EgPSBuZXcgaW50W2Fucy5zaXplKCldW107Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PGludFtdPiBhbnMgPSBuZXcgTGlua2VkTGlzdDw+KCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGNsYXNzIFJhbmdlIGltcGxlbWVudHMgQ29tcGFyYWJsZTxSYW5nZT4gewogICAgICAgIHByaXZhdGUgaW50IHN0YXJ0OwogICAgICAgIHByaXZhdGUgaW50IGVuZDsKCiAgICAgICAgUmFuZ2UoaW50IHN0YXJ0LCBpbnQgZW5kKSB7CiAgICAgICAgICAgIHRoaXMuc3RhcnQgPSBzdGFydDsKICAgICAgICAgICAgdGhpcy5lbmQgPSBlbmQ7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgaW50IGNvbXBhcmVUbyhSYW5nZSBvKSB7CiAgICAgICAgICAgIGlmIChzdGFydCAhPSBvLnN0YXJ0KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gSW50ZWdlci5jb21wYXJlKHN0YXJ0LCBvLnN0YXJ0KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIEludGVnZXIuY29tcGFyZShlbmQsIG8uZW5kKTsKICAgICAgICB9CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYW5zLnRvQXJyYXkobmV3IGludFswXVtdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/userId/palyerId/g</text>
