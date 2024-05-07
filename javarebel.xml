@@ -2,6 +2,9 @@
   <component name="JavaRebelPlugin">
     <option name="ideInstallationStorage">
       <map>
+        <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="true" />
+        <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
+        <entry key="com.zeroturnaround.jrebel.intellij.autosave.enabled" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2024.2.0" />
       </map>
     </option>
