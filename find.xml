@@ -10,9 +10,9 @@
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.gradle</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
+    <mask>*.gradle</mask>
     <mask>*.java</mask>
   </component>
 </application>
