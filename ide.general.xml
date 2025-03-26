@@ -5,4 +5,11 @@
     <option name="inactiveTimeout" value="10" />
     <option name="processCloseConfirmation" value="TERMINATE" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Encoding" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
