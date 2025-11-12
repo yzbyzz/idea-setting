@@ -149,11 +149,6 @@
                       <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*unwanted line.*" />
                     </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="action" value="REMOVE" />
-                      <option name="grepExpression" value=".*ERROR.*" />
-                      <option name="inputFilter" value="true" />
-                    </GrepExpressionItem>
                   </list>
                 </option>
               </GrepExpressionGroup>
