@@ -24,15 +24,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="ERROR" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="WARN" />
               </GrepModel>
             </list>
@@ -52,6 +43,15 @@
             <list>
               <GrepModel>
                 <option name="expression" value="[ERROR ]" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="ERROR" />
               </GrepModel>
             </list>
           </option>
