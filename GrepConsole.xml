@@ -69,7 +69,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="[ERROR]" />
+                <option name="expression" value="[WARN ]" />
               </GrepModel>
             </list>
           </option>
@@ -78,7 +78,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="[WARN ]" />
+                <option name="expression" value="[ERROR]" />
               </GrepModel>
             </list>
           </option>
