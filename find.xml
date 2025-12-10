@@ -5,16 +5,17 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.conf</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
