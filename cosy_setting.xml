@@ -33,5 +33,6 @@
       </ChangeUserSettingParams>
     </option>
     <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineNextTips" value="false" />
   </component>
 </application>
