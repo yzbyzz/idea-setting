@@ -97,8 +97,16 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="^\[WARN \]" />
-                <option name="regex" value="true" />
+                <option name="expression" value="[ERROR]" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
               </GrepModel>
             </list>
           </option>
@@ -117,16 +125,8 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="[ERROR]" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="" />
+                <option name="expression" value="^\[WARN \]" />
+                <option name="regex" value="true" />
               </GrepModel>
             </list>
           </option>
